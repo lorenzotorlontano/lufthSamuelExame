@@ -1,0 +1,8 @@
+.wrapperAirportsSection {
+    display: flex;
+    justify-content: center;
+}
+
+.wrapperContainerButton {
+    padding: 15px 0 15px 0;
+}

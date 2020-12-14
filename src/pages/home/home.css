@@ -1,0 +1,7 @@
+.wrapper {
+    background-image: url(https://www.lufthansa.com/content/dam/lh/images/local_images/homepage/stage-visuals/lhcom-stage-202004@2x.jpg);
+    height: 100vh;
+    background-size: 100% 100%;
+    align-items: center;
+    justify-content: center;
+}

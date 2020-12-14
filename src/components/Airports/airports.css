@@ -1,0 +1,17 @@
+.itemWrapperAutoComplete {
+    display: 'flex';
+    justify-content: center;
+    width: '100%';
+    align-items: center;
+}
+
+.itemArrow {
+    display: flex;
+    justify-content: center;
+}
+
+.some {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}

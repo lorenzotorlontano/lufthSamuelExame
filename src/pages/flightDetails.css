@@ -1,0 +1,47 @@
+.itemFlightInformation {
+    box-shadow: 5px 10px 10px 15px #05164D;
+    display: flex;
+    height: 600px;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 20px;
+    flex-direction: column;
+    font-family: sans-serif;
+    border-radius: 10px;
+    justify-content: space-between;
+    text-transform: uppercase;
+}
+
+.wrapperItemGridDetailsSectionFlight {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    width: 100%;
+    height: 100vh;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3mLLnHpvFqRjFphBKttlXjFbNlFxHFlSiMw&usqp=CAU');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.containerSectionFlight {
+    border: 2px solid black;
+    padding-left: 30px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.titleItemGridFlight {
+    display: flex;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+.gridProgressItem {
+    display: flex;
+    justify-content: center;
+}
+
+.itemTextGrid {
+    display: 'flex';
+    justify-content: space-between;
+}
